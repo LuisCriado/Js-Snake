@@ -1,0 +1,19 @@
+body{
+    background-color: #666;
+    color: #fff;
+    font-family: monospace;
+    font-size: 1.5em;
+    text-align: center;
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+canvas{
+    border: solid 6px white;
+    background-color:cornflowerblue;
+    margin: 10px 0 0 10px ;
+ }
